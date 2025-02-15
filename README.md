@@ -71,8 +71,6 @@ Copy MSIs for analysis on a remote system:
 msicrab.exe --csv --extract
 ```
 
----
-
 ## References & Inspiration
 
 This project was mostly inspired by [Mandiant's research on this topic](https://cloud.google.com/blog/topics/threat-intelligence/privileges-third-party-windows-installers/?hl=en) and their tool [https://github.com/mandiant/msi-search](https://github.com/mandiant/msi-search) as well as [this really nice writeup](https://badoption.eu/blog/2023/10/03/MSIFortune.html).
@@ -83,16 +81,10 @@ Other tools that may help you in discovering and exploiting MSI vulnerabilities:
 - msiscan from SecConsult - [https://github.com/sec-consult/msiscan](https://github.com/sec-consult/msiscan)
 
 
----
-
 ## License
 
 This project is licensed under the **GPLv3.0 License** – see the [LICENSE](LICENSE) file for details.
 
----
-
 ## Contributing
 
 Contributions are welcome! This project is a WIP (as most pentest tools are anyway) so keep that in mind.
-
----
